@@ -43,7 +43,9 @@ body {
 .biography-details li, .skill-list li {
 	padding-left: 1em;
 }
-
+.biography-details li, .skill-list li {
+	padding-left: 2em;
+}
 /* Styles for contact icons */
 
 .contact-icon {

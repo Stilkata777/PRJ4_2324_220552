@@ -6,11 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family:  font-family: "Roboto", sans-serif;
+	font-family:  "Roboto", sans-serif;
 	color: #FFFFFF;
 	background-color: #FFEABF;
 }
-
+.hyperlinks{
+	text-transform: uppercase;
+}
 .titlenamecolor{
 	color: #E74500
 }
